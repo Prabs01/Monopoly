@@ -1,0 +1,3 @@
+/Users/prabesh/Documents/Monopoly/build/CMakeFiles/Monopoly.dir
+/Users/prabesh/Documents/Monopoly/build/CMakeFiles/edit_cache.dir
+/Users/prabesh/Documents/Monopoly/build/CMakeFiles/rebuild_cache.dir

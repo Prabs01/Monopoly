@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.10)
+project(Monopoly)
+
+# Specify the C++ standard
+set(CMAKE_CXX_STANDARD 11)
+
+# Find the raylib package
+find_package(raylib 4.0 REQUIRED) # Adjust the version number to 4.0
+
+# Add the executable
+add_executable(Monopoly src/main.cpp src/game.cpp src/board.cpp src/properties.cpp src/player.cpp)
+
+# Link raylib to your project
+target_link_libraries(Monopoly raylib)

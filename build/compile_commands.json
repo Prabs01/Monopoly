@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/prabesh/Documents/Monopoly/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/Monopoly.dir/src/main.cpp.o -c /Users/prabesh/Documents/Monopoly/src/main.cpp",
+  "file": "/Users/prabesh/Documents/Monopoly/src/main.cpp",
+  "output": "CMakeFiles/Monopoly.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/prabesh/Documents/Monopoly/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/Monopoly.dir/src/game.cpp.o -c /Users/prabesh/Documents/Monopoly/src/game.cpp",
+  "file": "/Users/prabesh/Documents/Monopoly/src/game.cpp",
+  "output": "CMakeFiles/Monopoly.dir/src/game.cpp.o"
+},
+{
+  "directory": "/Users/prabesh/Documents/Monopoly/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/Monopoly.dir/src/board.cpp.o -c /Users/prabesh/Documents/Monopoly/src/board.cpp",
+  "file": "/Users/prabesh/Documents/Monopoly/src/board.cpp",
+  "output": "CMakeFiles/Monopoly.dir/src/board.cpp.o"
+},
+{
+  "directory": "/Users/prabesh/Documents/Monopoly/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/Monopoly.dir/src/properties.cpp.o -c /Users/prabesh/Documents/Monopoly/src/properties.cpp",
+  "file": "/Users/prabesh/Documents/Monopoly/src/properties.cpp",
+  "output": "CMakeFiles/Monopoly.dir/src/properties.cpp.o"
+},
+{
+  "directory": "/Users/prabesh/Documents/Monopoly/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/Monopoly.dir/src/player.cpp.o -c /Users/prabesh/Documents/Monopoly/src/player.cpp",
+  "file": "/Users/prabesh/Documents/Monopoly/src/player.cpp",
+  "output": "CMakeFiles/Monopoly.dir/src/player.cpp.o"
+}
+]
